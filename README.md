@@ -10,9 +10,10 @@ This repository contains **tabular datasets** generated from an **industrial cyl
 
 The dataset was produced through a **Response Surface Methodology (RSM)** design that defined the controlled levels of:
 
-- **Cutting speed**
-- **Depth of cut**
-- **Feed rate**
+- **Wheeel infeed rate (x1)**
+- **Dressing speed (x2)**
+- **Griding wheel peripheral speed (x3)**
+- **Dressing depth (x4)**
 
 A total of **30 experiments** were carried out under **real shop-floor conditions**.  
 Each experiment was combined with **four noise configurations**, arising from two external factors:
