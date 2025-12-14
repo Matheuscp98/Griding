@@ -12,7 +12,7 @@ The dataset was produced through a **Response Surface Methodology (RSM)** design
 
 - **Wheeel infeed rate (x1)**
 - **Dressing speed (x2)**
-- **Griding wheel peripheral speed (x3)**
+- **Grinding wheel peripheral speed (x3)**
 - **Dressing depth (x4)**
 
 A total of **30 experiments** were carried out under **real shop-floor conditions**.  
@@ -27,7 +27,7 @@ For every configuration, **ten repeated dimensional measurements** were collecte
 - `T2`
 - `T3`
 
-All data are stored in [**Griding**](griding.csv), the main dataset of this repository.
+All data are stored in [**Grinding**](grinding.csv), the main dataset of this repository.
 
 The dataset is intended for:
 
@@ -53,7 +53,7 @@ This dataset is part of the research study:
 ## 🛠️ How to Use
 
 1. Clone or download this repository.
-2. Open [**Griding**](griding.csv) using:
+2. Open [**Grinding**](grinding.csv) using:
    - Python (pandas)
    - R
    - MATLAB
@@ -73,7 +73,7 @@ This dataset is part of the research study:
 | File | Description |
 |------|-------------|
 | [**README**](README.md) | Documentation of dataset purpose, structure, and usage. |
-| [**Griding**](griding.csv) | Main dataset containing machining parameters, noise factors, repeated measurements, and dimensional outputs (T1, T2, T3). |
+| [**Grinding**](grinding.csv) | Main dataset containing machining parameters, noise factors, repeated measurements, and dimensional outputs (T1, T2, T3). |
 
 ---
 
