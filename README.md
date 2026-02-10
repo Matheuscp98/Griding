@@ -1,6 +1,6 @@
 # ⚙️ Tabular Dataset for Analysis of an Industrial Cylindrical Plunge Grinding Process
 
-**DOI:** 
+**DOI:** [10.5281/zenodo.18602410](https://doi.org/10.5281/zenodo.18602410)
 
 ---
 
